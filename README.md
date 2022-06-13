@@ -8,6 +8,5 @@ Custom CNC Router build and code.
 - Compatible with Inventor .dxf files
 
 ## Materials
-
-- 8020 Frame
+- Wooden frame
 - NEMA 23 Stepper Motors
